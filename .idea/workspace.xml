@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/hp/tz/DateTest.java" line="18" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26c0584b-1ed8-4d56-a60d-15ee1ff54c87" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/hp/chatroom2/client/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>substring</find>
+      <find>exceptionListener</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Administrator\Desktop\Day11</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/hp/Dome26/Dome/Resolve.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/tz/TestStream.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/Dome22/FileTest.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/Dome26/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/Dome26/Dome/AddContentTest.java" />
+        <option value="$PROJECT_DIR$/src/Dome27/TcpTestClient.java" />
+        <option value="$PROJECT_DIR$/src/Dome27/UrlTest.java" />
+        <option value="$PROJECT_DIR$/src/Dome27/ServerTest.java" />
+        <option value="$PROJECT_DIR$/src/Dome27/udp/tz/NetServer.java" />
+        <option value="$PROJECT_DIR$/src/Dome27/udp/tz/NetClient.java" />
+        <option value="$PROJECT_DIR$/src/Dome27/tcp/TcpTestClient.java" />
+        <option value="$PROJECT_DIR$/src/Dome27/tcp/TcpTestServer.java" />
+        <option value="$PROJECT_DIR$/src/Dome27/udp/ServerTest.java" />
+        <option value="$PROJECT_DIR$/src/Dome27/udp/tz/UDPClientDemo.java" />
+        <option value="$PROJECT_DIR$/src/Dome27/udp/tz/FileClient.java" />
+        <option value="$PROJECT_DIR$/src/Dome27/udp/tz/FileService.java" />
+        <option value="$PROJECT_DIR$/src/Dome27/udp/UrlTest.java" />
+        <option value="$PROJECT_DIR$/src/Dome27/tcp/NetServer.java" />
+        <option value="$PROJECT_DIR$/src/Dome27/tcp/NetClient.java" />
+        <option value="$PROJECT_DIR$/src/Dome27/tcp/SocketClient.java" />
+        <option value="$PROJECT_DIR$/src/Dome27/tcp/SocketService.java" />
+        <option value="$PROJECT_DIR$/src/Dome27/tcp/tcp1/ClientTest.java" />
+        <option value="$PROJECT_DIR$/src/Dome27/tcp/tcp1/ServerTest.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/Dome28/person.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/Dome28/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/Dome28/ClassTest.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/Dome28/PersonTest.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/Dome29/ReguarTest.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/Dome27/tcp/tcp1/ClientNameEntity.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/Dome27/tcp/tcp1/TestClient.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/Dome27/tcp/tcp1/server.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/Dome27/tcp/tcp1/ChatServer.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/Dome27/udp/SocketService.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/Dome27/tcp/tcp1/ServerTest.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/Dome29/Tcp/client.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/Dome27/tcp/tcp1/ClientTest.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/Dome29/Tcp/server.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/TalkRoom/src/com/java1823/talkroom/client/ClientTest.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/TalkRoom/src/com/java1823/talkroom/UserInput.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/TalkRoom/src/com/java1823/talkroom/client/ClientInput.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/TalkRoom/src/com/java1823/talkroom/server/ServerClient.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/chatroom/server/ServerInput.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/chatroom/client/ClientTest.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/chatroom/client/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/chatroom/client/ClientInput.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/chatroom/server/ServerCllientMessage.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/chatroom/server/Server.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/chatroom2/client/AcceptServerMessage.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/chatroom2/common/InputPublic.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/chatroom2/client/ClientInputhm.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/chatroom2/client/Client.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="45" />
+    <option name="y" value="9" />
+    <option name="width" value="1237" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Day11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hp" type="462c0819:PsiDirectoryNode" />
+              <item name="chatroom2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hp" type="462c0819:PsiDirectoryNode" />
+              <item name="chatroom2" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/jdk/lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Day11\src\com\hp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Day11\src\com\hp\chatroom2" />
+      <recent name="C:\Users\Administrator\Desktop\Day11\src\com\hp" />
+      <recent name="C:\Users\Administrator\Desktop\Day11\src\com\hp\Dome29\Tcp" />
+      <recent name="C:\Users\Administrator\Desktop\Day11\src\com\hp\Dome27\udp" />
+      <recent name="C:\Users\Administrator\Desktop\Day11\src\Dome27\tcp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hp.Dome20" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.hp.Dome27.tcp.tcp1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ClientTest">
+    <configuration name="ClientTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hp.TalkRoom.src.com.java1823.talkroom.client.ClientTest" />
+      <module name="Day11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hp.TalkRoom.src.com.java1823.talkroom.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ClientTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hp.chatroom.client.ClientTest" />
+      <module name="Day11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hp.chatroom.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ServerTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hp.TalkRoom.src.com.java1823.talkroom.server.ServerTest" />
+      <module name="Day11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hp.TalkRoom.src.com.java1823.talkroom.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ServerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hp.chatroom.server.ServerTest" />
+      <module name="Day11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hp.chatroom.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hp.Dome29.Tcp.server" />
+      <module name="Day11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hp.Dome29.Tcp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Day11" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52594" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientTest" />
+      <item itemvalue="Application.server" />
+      <item itemvalue="Application.ServerTest (1)" />
+      <item itemvalue="Application.ClientTest (1)" />
+      <item itemvalue="Application.ServerTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServerTest" />
+        <item itemvalue="Application.ClientTest (1)" />
+        <item itemvalue="Application.ServerTest (1)" />
+        <item itemvalue="Application.server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26c0584b-1ed8-4d56-a60d-15ee1ff54c87" name="Default" comment="" />
+      <created>1535073469365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535073469365</updated>
+      <workItem from="1535073475537" duration="8497000" />
+      <workItem from="1535092271707" duration="5983000" />
+      <workItem from="1535161294923" duration="1639000" />
+      <workItem from="1535191827892" duration="603000" />
+      <workItem from="1535200766928" duration="10133000" />
+      <workItem from="1535248457549" duration="7087000" />
+      <workItem from="1535271845822" duration="7133000" />
+      <workItem from="1535330527760" duration="8341000" />
+      <workItem from="1535366105464" duration="4419000" />
+      <workItem from="1535417811738" duration="8216000" />
+      <workItem from="1535436752276" duration="8312000" />
+      <workItem from="1535502682750" duration="5026000" />
+      <workItem from="1535537980219" duration="15499000" />
+      <workItem from="1535592079127" duration="2326000" />
+      <workItem from="1535610271562" duration="2108000" />
+      <workItem from="1535637422348" duration="6759000" />
+      <workItem from="1535676748950" duration="5432000" />
+      <workItem from="1535772876356" duration="22425000" />
+      <workItem from="1535857671732" duration="601000" />
+      <workItem from="1535896572772" duration="2486000" />
+      <workItem from="1535955521414" duration="5023000" />
+      <workItem from="1535979631525" duration="6953000" />
+      <workItem from="1536023045197" duration="7831000" />
+      <workItem from="1536064341185" duration="7568000" />
+      <workItem from="1536112081253" duration="7746000" />
+      <workItem from="1536129189838" duration="7473000" />
+      <workItem from="1536153076900" duration="1209000" />
+      <workItem from="1536195107180" duration="6967000" />
+      <workItem from="1536228123949" duration="14086000" />
+      <workItem from="1536285274744" duration="6846000" />
+      <workItem from="1536301913356" duration="7907000" />
+      <workItem from="1536379128637" duration="5046000" />
+      <workItem from="1536399842106" duration="8380000" />
+      <workItem from="1536454410388" duration="3502000" />
+      <workItem from="1536468637373" duration="233000" />
+      <workItem from="1536487021567" duration="269000" />
+      <workItem from="1536497903491" duration="1507000" />
+      <workItem from="1536499480348" duration="86000" />
+      <workItem from="1536499721529" duration="3206000" />
+      <workItem from="1536543803072" duration="2930000" />
+      <workItem from="1536559828525" duration="4836000" />
+      <workItem from="1536575424416" duration="11225000" />
+      <workItem from="1536626049200" duration="8913000" />
+      <workItem from="1536662953012" duration="10524000" />
+      <workItem from="1536710401559" duration="9392000" />
+      <workItem from="1536732596729" duration="6341000" />
+      <workItem from="1536763123136" duration="4072000" />
+      <workItem from="1536799168113" duration="4690000" />
+      <workItem from="1536808071347" duration="3763000" />
+      <workItem from="1536833649051" duration="11658000" />
+      <workItem from="1536889828568" duration="6417000" />
+      <workItem from="1536905994932" duration="3706000" />
+      <workItem from="1536910157222" duration="2349000" />
+      <workItem from="1536914044883" duration="1205000" />
+      <workItem from="1536976816266" duration="6848000" />
+      <workItem from="1537016979357" duration="7101000" />
+      <workItem from="1537065119521" duration="1831000" />
+      <workItem from="1537070695789" duration="1488000" />
+      <workItem from="1537146912175" duration="2150000" />
+      <workItem from="1537149919931" duration="1840000" />
+      <workItem from="1537151813735" duration="1136000" />
+      <workItem from="1537155576554" duration="150000" />
+      <workItem from="1537155795000" duration="299000" />
+      <workItem from="1537156155701" duration="939000" />
+      <workItem from="1537252456782" duration="1195000" />
+      <workItem from="1537275739573" duration="943000" />
+      <workItem from="1537404497910" duration="601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ClassTest_testClass - 2018.09.12 at 23h 42m 22s.xml">
+      <configuration name="ClassTest.testClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassTest_testClass - 2018.09.12 at 23h 44m 50s.xml">
+      <configuration name="ClassTest.testClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassTest_testClass - 2018.09.12 at 23h 47m 50s.xml">
+      <configuration name="ClassTest.testClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassTest_testClass - 2018.09.13 at 08h 40m 34s.xml">
+      <configuration name="ClassTest.testClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassTest_testClass - 2018.09.13 at 08h 41m 35s.xml">
+      <configuration name="ClassTest.testClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClient_test - 2018.09.13 at 11h 13m 34s.xml">
+      <configuration name="TestClient.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClient_test - 2018.09.13 at 11h 14m 23s.xml">
+      <configuration name="TestClient.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClient_test - 2018.09.13 at 11h 16m 16s.xml">
+      <configuration name="TestClient.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClient_test - 2018.09.13 at 11h 16m 31s.xml">
+      <configuration name="TestClient.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClient_test - 2018.09.13 at 19h 32m 29s.xml">
+      <configuration name="TestClient.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="353405000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="45" y="9" width="1237" height="745" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5014641" side_tool="true" weight="0.27555555" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49853587" weight="0.23703703" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27190828" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31703705" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3585185" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.29245284" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hp/test3/FontEntity.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo/Goods.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hp/Dome22/FileTest.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="82" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="buffer[55]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/hp/Dome28/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/Dome28/PersonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/Dome29/ReguarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/Dome27/tcp/tcp1/TestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/Dome27/tcp/tcp1/server.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/Dome27/tcp/tcp1/ChatServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2063">
+          <caret line="117" column="8" selection-start-line="117" selection-start-column="8" selection-end-line="117" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/Dome27/tcp/tcp1/ClientNameEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/Dome27/tcp/SocketClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="45" column="22" lean-forward="true" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/Dome27/udp/SocketService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-468">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/Dome27/tcp/SocketService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="31" column="37" lean-forward="true" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/net/ServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="125" column="7" lean-forward="true" selection-start-line="125" selection-start-column="7" selection-end-line="125" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="55" column="27" lean-forward="true" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/Dome27/tcp/tcp1/ServerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/Dome27/tcp/tcp1/ClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/Dome29/Tcp/client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/Dome29/Tcp/server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/TalkRoom/out/production/TalkRoom/com/java1823/talkroom/server/ServerClient$UserExceptionListener.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/TalkRoom/src/com/java1823/talkroom/TalkRoom.java" />
+    <entry file="jar://D:/jdk/src.zip!/java/io/OutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="104" column="11" selection-start-line="104" selection-start-column="11" selection-end-line="104" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/TalkRoom/src/com/java1823/talkroom/client/ClientTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/TalkRoom/src/com/java1823/talkroom/server/Nicknames.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/TalkRoom/src/com/java1823/talkroom/UserInput.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/TalkRoom/src/com/java1823/talkroom/server/ServerInput.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/TalkRoom/src/com/java1823/talkroom/server/Server.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/TalkRoom/src/com/java1823/talkroom/server/ServerClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/TalkRoom/src/com/java1823/talkroom/server/ServerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/TalkRoom/src/com/java1823/talkroom/client/ClientInput.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/TalkRoom/src/com/java1823/talkroom/client/ClientMsg.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/TalkRoom/src/com/java1823/talkroom/client/Client.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/yhm/client/Client.java" />
+    <entry file="jar://D:/jdk/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="747" selection-start-line="747" selection-end-line="747" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/chatroom/server/ServerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/chatroom/common/InputPublic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/chatroom/common/ClientIntefacePort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="948" column="31" lean-forward="true" selection-start-line="948" selection-start-column="31" selection-end-line="948" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/chatroom/server/ServerInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1656">
+          <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/chatroom/server/ServerCllientMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3348">
+          <caret line="112" column="8" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/chatroom/server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/chatroom/client/AcceptServerMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/chatroom2/client/ClientTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/chatroom2/client/ClientInput.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/chatroom2/client/AcceptServerMessage.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/chatroom2/common/InputPublic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/chatroom/client/ClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/chatroom2/common/ClientIntefacePort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/chatroom2/client/ClientInputhm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/chatroom/client/ClientInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/chatroom/client/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/chatroom2/client/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Day11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
